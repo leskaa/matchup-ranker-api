@@ -21,7 +21,7 @@ This is a serverless API for the [prestige app](https://github.com/Brojaga/prest
 6. Run `npm install` to install dependencies
 7. Run `cdk deploy` to create the CloudFormation template and deploy it
 
-Check out the [INFRA.md](https://github.com/leskaa/matchup-ranker-api/infrastructure/INFRA.md) in the CDK sub-project for more information about the infrastructure and deployment.
+Check out the [INFRA.md](https://github.com/leskaa/matchup-ranker-api/blob/main/infrastructure/INFRA.md) in the CDK sub-project for more information about the infrastructure and deployment.
 
 ## API Endpoints
 
